@@ -3,6 +3,8 @@ name = "framebuffer-manager"
 version = "0.1.0"
 authors = ["PinkNoize"]
 edition = "2018"
+description = "Library to abstract away from the framebuffer"
+license = "WTFPL"
 
 [dependencies]
 framebuffer = "0.1.8"
